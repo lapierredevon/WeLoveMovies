@@ -2,11 +2,11 @@
 
 ## Summary
 
-For this project I set up a database, using Express.js and Knex.js. I created tables using Knex migration files and used Knex to write functions to query data from the database.
+For this project I set up a database and routes using Express.js, PostgreSQL, JavaScript, and Knex.js. I created tables using Knex migration files and I also used Knex to write functions to query data from the database.
 
 ## Usage
 
-This RESTFUL api can be used to build projects.
+This RESTful API can be used to build projects.
 
 ## Built With
 
@@ -19,7 +19,7 @@ This RESTFUL api can be used to build projects.
 - pg
 - sqlite3
 
-## RESTFULapi Link
+## RESTful API Link
 
 - https://we-love-movies-y1dy.onrender.com
 
